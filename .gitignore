@@ -1,0 +1,13 @@
+# Ignore datasets
+*.csv
+*.parquet
+data/raw/*
+data/processed/*
+
+# Ignore notebook checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore venv
+.venv/
