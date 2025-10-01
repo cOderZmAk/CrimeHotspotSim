@@ -22,6 +22,8 @@ This approach provides policymakers, law enforcement, and researchers with a way
 ---
 
 ## Project Structure
+
+```
 CrimeHotspotSim/
 │
 ├── data/ # Raw & processed datasets (ignored in Git)
@@ -42,7 +44,7 @@ CrimeHotspotSim/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-
+```
 
 ---
 
